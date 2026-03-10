@@ -18,4 +18,4 @@
 
   - [Maven Course](https://maven.com/will-lowrey/claude-code-for-pms-build-ai-fluency)
   - [willlowrey.com](https://willlowrey.com)
-  - [LinkedIn](https://www.linkedin.com/in/willlowrey)
+  - [LinkedIn](https://www.linkedin.com/in/williamlowrey)
